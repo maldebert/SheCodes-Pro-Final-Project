@@ -87,6 +87,11 @@ p {
   margin: 30px;
 }
 
+.contact-info a {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
